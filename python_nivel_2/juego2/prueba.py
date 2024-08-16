@@ -10,7 +10,7 @@ from time import sleep # Pausar el juego
 #Del 1 al 18 programamos el movimiento de los enemigos
 #Del 19 al 23 programamos las colisiones
 #Del 24 al 27 programamos Musica y sonidos en este link pueden descargar https://y2mate.nu/Pio1/ y en este link lo convierten a WAV https://convertio.co/es/mp3-wav/
-#Del 28 al programamos el Fin
+#Del 28 al 51 programamos el Fin
 # pygame setup
 
 
